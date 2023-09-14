@@ -1,0 +1,45 @@
+[
+    {
+          "id":"1",
+          "cover":"https://i.ibb.co/JdCQt8k/1.jpg",
+          "title":"Sample Book 1",
+          "author":"John Doe",
+          "author_img":"https://i.ibb.co/1RGWqXL/girl1.jpg",
+          "posted_date":"2023-09-11",
+          "reading_time":120,   
+          "hashtags":["fiction", "adventure"]
+    },
+    {
+          "id":"2",
+          "cover":"https://i.ibb.co/tLjqgnL/3.png",
+          "title":"Sample Book 2",
+          "author":"Jane Smith",
+          "author_img":"https://i.ibb.co/pR4cJ2Y/boy2.jpg",
+          "posted_date":"2023-09-10",
+          "reading_time":90,    
+          "hashtags":["nonfiction", "self-help"]
+    },
+    {
+          "id":"3",
+          "cover":"https://i.ibb.co/TcQzZyx/4.jpg",
+          "title":"Sample Article 1",
+          "author":"Robert Johnson",
+          "author_img":"https://i.ibb.co/KzbDtDC/boy1.png",
+          "posted_date":"2023-09-09",
+          "reading_time":30,   
+          "hashtags":["technology", "innovation"]
+    },
+    {
+          "id":"3",
+          "cover":"https://i.ibb.co/tM8b97K/2.png",
+          "title":"Sample Article 1",
+          "author":"Robert Johnson",
+          "author_img":"https://i.ibb.co/s6hZvB8/girl2.jpg",
+          "posted_date":"2023-09-09",
+          "reading_time":30,   
+          "hashtags":["technology", "innovation"]
+    }
+]
+ 
+ 
+ 
